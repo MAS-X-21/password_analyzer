@@ -442,19 +442,19 @@ The following screenshots demonstrate the application interface and its defensiv
 
 ### Screenshot 1 — Password Analysis Dashboard
 
-![Password Analyzer Dashboard](screenshots/screenshot%20%2877%29.png)
+![Password Analyzer Dashboard](screenshots/Screenshot%20%2877%29.png)
 
 ---
 
 ### Screenshot 2 — Security Analysis & Recommendations
 
-![Password Analyzer Analysis](screenshots/screenshot%20%2878%29.png)
+![Password Analyzer Analysis](screenshots/Screenshot%20%2878%29.png)
 
 ---
 
 ### Screenshot 3 — Password Security Assessment
 
-![Password Analyzer Result](screenshots/screenshot%20%2879%29.png)
+![Password Analyzer Result](screenshots/Screenshot%20%2879%29.png)
 
 > **Note:** Screenshots should contain synthetic/demo passwords only. Do not upload real passwords or sensitive information to GitHub.
 
